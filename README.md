@@ -510,8 +510,8 @@ MIT License
 
 ## Contact
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@GreatestCodeMaster](https://github.com/waibazen)
+- Email: lamaprahlad5@gmail.com
 
 ## Acknowledgments
 
